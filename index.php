@@ -20,13 +20,14 @@
 <link rel="stylesheet" href="https://web.archive.org/web/20060220105954cs_/http://www.facebook.com/css/auxiliary.css?5677" type="text/css"/>
 <!--[if IE]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(http://www.facebook.com/css/ie.css?5702); /* ]]> */</style><![endif]-->
 <script type="text/javascript" src="https://web.archive.org/web/20060220105954js_/http://www.facebook.com/js/facebook.js?7022"></script>
-<link rel="shortcut icon" href="https://web.archive.org/web/20060220105954im_/http://www.facebook.com/favicon.ico"/>
+<link rel="shortcut icon" href="favicon.ico"/>
 </head>
 <body class="welcome" onload="runOnload();">
 
 <div id="book">
 <div id="pageheader">
-<h1 id="homelink"><a href="/web/20060220105954/http://facebook.com/">Backbook</a></h1>
+  <img src="logo.png"
+<h1 id="homelink"><a href="index.php">Home</a></h1>
 <ul id="gnav">
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/login.php">login</a></li>
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/register.php">register</a></li><li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/help.php">help</a></li>
@@ -80,7 +81,7 @@
   <li><span>Look up people around the world.</span></li>
   <li><span>See how people know each other.</span></li>
   <li><span>Find family and freinds.</span></li>
-  <li><span>Find out how peseants lived in 2006.</span></li>
+  <li><span>Find out how peasants lived in 2006.</span></li>
 </ul>
 <div class="center" style="width:150px;"><input type="button" id="login" name="login" onclick="loginform.submit()" class="inputbutton" value="Login"/>&#8194;<input type="button" id="register" name="register" onclick="document.location='register.php'" class="inputbutton" value="Register"/></div></div>
 
@@ -94,10 +95,10 @@
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/jobs.php">jobs</a></li>
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/media.php">advertise</a></li>
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/terms.php">terms</a></li>
-<li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/policy.php">privacy</a></li>
+<li><a href="discord.php">discord</a></li>
 </ul>
   <p>a Dylan Corona(bruhmachine) production</p>
-  <p>Backbook <span title="8">&copy;</span> <span title="10.1.0.29">20</span><span title="646880">06</span></p>
+  <p>Backbook <span title="8">&copy;</span> <span title="10.1.0.29">20</span><span title="646880">22</span></p>
 </div>
 
 </div>
