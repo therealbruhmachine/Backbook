@@ -94,10 +94,12 @@
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/contact.php">contact</a></li>
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/jobs.php">jobs</a></li>
 <li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/media.php">advertise</a></li>
-<li><a href="https://web.archive.org/web/20060220105954/http://www.facebook.com/terms.php">terms</a></li>
+<li><a href="tos.php">terms</a></li>
 <li><a href="discord.php">discord</a></li>
+<li><a href="mobile.php">mobile(coming soon)</a></li>
 </ul>
   <p>a Dylan Corona(bruhmachine) production</p>
+  <p>Site last updated at:(insert time).</p>
   <p>Backbook <span title="8">&copy;</span> <span title="10.1.0.29">20</span><span title="646880">22</span></p>
 </div>
 
